@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zchapais
-- 👀 I’m interested in data science, business analytics, business intelligence and solving real business problems. 
-- 🌱 I’m currently learning python and it's libraries. 
-- 💞️ I’m looking to collaborate on data science or business analytics projects! 
+- 👀 I’m interested in software engineering, all things python, business analytics, business intelligence and solving real problems. 
+- 🌱 I’m currently learning python. 
+- 💞️ I’m looking to collaborate on python or business analytics projects! 
 - 📫 Best way to reach out to me is through GitHub!
 
 <!---
